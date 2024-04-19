@@ -3,6 +3,7 @@
 World currencies play a pivotal role in global economic interactions, serving as the medium for exchange, store of value, and unit of account across different nations. Each country typically issues its own currency, managed by a central authority, such as a central bank, which regulates its supply and value. Major currencies like the US Dollar, Euro, and Japanese Yen dominate international trade and finance due to their stability and widespread acceptance. These currencies are often held as reserves by other countries' central banks, reinforcing their importance in the global market. Exchange rates between these currencies fluctuate based on various factors including economic policies, interest rates, and geopolitical events, influencing international trade balances and economic strategies. Emerging market currencies, on the other hand, can be subject to higher volatility, reflecting the perceived risk and economic prospects within those nations.
 
 #
+### Data
 
 <details><summary>$0.01 in 195 Countries</summary>
 <br>
