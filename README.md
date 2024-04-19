@@ -37,5 +37,12 @@ Regarding the different types of backing for $1, various countries employ a rang
 <br>    
 </details>
 
+#
+### Related Links
+
+[Currency Insight](https://chat.openai.com/g/g-eGhUZlmUs-currency-insight)
+<br>
+[Stock Market Simulator](https://chat.openai.com/g/g-YOR2U66rf-stock-market-simulator)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
