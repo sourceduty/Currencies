@@ -114,7 +114,7 @@ Continents like North America and Europe have sophisticated systems that can han
 <br>    
 </details>
 
-***
+#
 
 ### Notes
 
@@ -142,7 +142,8 @@ Fiat currencies are government-issued currencies that are not backed by a physic
 <br>    
 </details>
 
-#
+***
+
 ### Related Links
 
 [Currency Insight](https://chat.openai.com/g/g-eGhUZlmUs-currency-insight)
