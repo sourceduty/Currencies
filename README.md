@@ -4,6 +4,8 @@ World currencies play a pivotal role in global economic interactions, serving as
 
 #
 
+### Notes
+
 <details><summary>Currency Backing</summary>
 <br>
 
