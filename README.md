@@ -9,6 +9,11 @@ The history of currency backing involves the evolution of what gives money its v
 
 In the context of modern currency, "material backing" refers to the physical substances used to create the currency itself, such as the metals in coins and the paper or polymer in banknotes. This is distinct from the concept of "backing" a currency, which historically involved linking the value of money to a commodity like gold or silver. Material backing today involves choosing durable and cost-effective materials that can withstand frequent handling and provide security features to prevent counterfeiting. For example, coins are typically made from combinations of metals like nickel, copper, and zinc, which offer longevity and resilience. Paper money, increasingly replaced by polymer in many countries due to its greater durability and security features, incorporates sophisticated elements such as watermarks, security threads, and holograms. Thus, while "backing" once meant the economic guarantee behind a currency, "material backing" focuses on the practical and security aspects of the physical currency itself.
 
+#
+### Fiat Currencies
+
+Fiat currencies are government-issued currencies that are not backed by a physical commodity, like gold or silver, but by the trust that individuals and governments place in them. The value of fiat money is derived from the economic relationship of supply and demand rather than the value of a physical substance that constitutes the money itself. Most modern paper currencies, such as the US dollar, the Euro, or the Japanese yen, are examples of fiat currencies. They are declared legal tender by government decree, which means they must be accepted as a form of payment within the country and can be used to settle all public and private debts. The stability and value of fiat currencies are largely influenced by government monetary policies, economic conditions, and the governance and economic performance of the issuing country.
+
 ***
 
 ### Data
