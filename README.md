@@ -7,7 +7,8 @@ World currencies play a pivotal role in global economic interactions, serving as
 
 The history of currency backing involves the evolution of what gives money its value, a topic that has witnessed significant transformations over centuries. Initially, currencies were often backed by physical commodities such as gold or silver, a system known as the "gold standard" or "silver standard." This method provided a tangible guarantee of the currency's value, enabling holders to exchange notes for a specific amount of a precious metal. However, the limitations of these metal reserves, coupled with the need for more flexible monetary policies, led to the abandonment of commodity-backed currencies throughout the 20th century. Most modern economies now use fiat money, which is currency that derives its value not from physical commodities but from the trust and authority of the government that issues it. This shift allows central banks greater control over their economies by enabling them to manage money supply and influence interest rates, independent of any physical reserve requirements.
 
-#
+***
+
 ### Data
 
 <details><summary>$0.01 in 195 Countries</summary>
